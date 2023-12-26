@@ -1,12 +1,12 @@
 pkgname=samsung-uld-printer
-pkgver=1.00.36_00.91
+pkgver=1.00.39_01.17
 pkgrel=1
 pkgdesc="Samsung Universal Driver (printers only)"
 arch=('x86_64')
 license=('custom')
 depends=('cups')
-source=("http://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=US&CttFileID=6285111&CDCttType=DR&ModelType=C&ModelName=ML-2165W/XAC&VPath=DR/201510/20151028120356557/uld_v1.00.36_00.91.tar.gz")
-md5sums=('ba1d213aa726efaf20c1b31f4da9fcdc')
+source=("http://downloadcenter.samsung.com/content/DR/201704/20170407143829533/uld_V1.00.39_01.17.tar.gz")
+md5sums=('f2d215d97a6630955042ae8479a47e28')
 
 package() {
     cd "uld"

@@ -13,6 +13,11 @@ Samsung_C1860_Series
 Samsung_C2620_Series
 Samsung_C2670_Series
 Samsung_C268x_Series
+Samsung_C3010_Series
+Samsung_C3060_Series
+Samsung_C351x_Series
+Samsung_C401x_Series
+Samsung_C406x_Series
 Samsung_C410_Series
 Samsung_C420_Series
 Samsung_C43x_Series
@@ -56,6 +61,7 @@ Samsung_CLX-92x1_93x1_Series
 Samsung_CLX-981x_Series
 Samsung_CLX-982x_Series
 Samsung_K2200_Series
+Samsung_K302_Series
 Samsung_K3250_Series
 Samsung_K401_Series
 Samsung_K4350_Series
@@ -77,6 +83,7 @@ Samsung_M4370_5370_Series
 Samsung_M453x_Series
 Samsung_M458x_Series
 Samsung_M5270_Series
+Samsung_M536x_Series
 Samsung_MFP_560_Series
 Samsung_MFP_65x_Series
 Samsung_MFP_750_Series
